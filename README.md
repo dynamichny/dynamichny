@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Flode](https://github.com/dynamichny/flode)
 
-- 🌱 I’m currently learning & mastering **RN Reaminated v2**
+- 🌱 I’m currently learning & mastering **E2E Testing with Detox**
 
 - 📫 How to reach me **marcinpawlicki0@gmail.com**
 
