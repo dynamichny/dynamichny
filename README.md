@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
-<h3 align="center">A passionate frontend/react native developer from Poznań, Poland</h3>
+<h3 align="center">A passionate mobile/react native developer from Poznań, Poland</h3>
 
 - 🔭 I’m currently working on [Flode](https://github.com/dynamichny/flode)
 
